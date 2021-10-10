@@ -10,4 +10,4 @@ Day 8 - Arrays. <br><hr>
 Day 9 - Dictionaries and Maps. <br><hr>
 Day 10 - Recursion 3. <br><hr>
 Day 11 - Binary Numbers. <br><hr>
-Day 12 - Arrays. <br><hr>
+Day 12 - 2D Arrays. <br><hr>
