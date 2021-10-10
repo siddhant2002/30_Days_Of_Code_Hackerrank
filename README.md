@@ -9,5 +9,5 @@ Day 7 - Let's Review. <br><hr>
 Day 8 - Arrays. <br><hr>
 Day 9 - Dictionaries and Maps. <br><hr>
 Day 10 - Recursion 3. <br><hr>
-Day 11 - Arrays. <br><hr>
+Day 11 - Binary Numbers. <br><hr>
 Day 12 - Arrays. <br><hr>
