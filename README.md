@@ -13,3 +13,4 @@ Day 11 - Binary Numbers. <br><hr>
 Day 12 - 2D Arrays. <br><hr>
 Day 13 - Inheritance. <br><hr>
 Day 14 - Abstract Classes. <br><hr>
+Day 15 - Scope. <br><hr>
