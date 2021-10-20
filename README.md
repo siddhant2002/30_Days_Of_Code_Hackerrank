@@ -19,6 +19,6 @@ Day 17 - Exceptions - String to Integer. <br><hr>
 Day 18 - More Exceptions. <br><hr>
 Day 19 - Queues and Stacks. <br><hr>
 Day 20 - Interfaces. <br><hr>
-Day 21 - . <br><hr>
+Day 21 - Sorting. <br><hr>
 Day 22 - . <br><hr>
 Day 23 - . <br><hr>
