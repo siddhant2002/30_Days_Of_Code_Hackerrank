@@ -24,7 +24,7 @@ Day 22 - Generics. <br><hr>
 Day 23 - . <br><hr>
 Day 24 - . <br><hr>
 Day 25 - More Linked Lists. <br><hr>
-Day 26 - . <br><hr>
+Day 26 - Running Time and Complexity. <br><hr>
 Day 27 - . <br><hr>
 Day 28 - . <br><hr>
 Day 29 - . <br><hr>
