@@ -28,4 +28,4 @@ Day 26 - Running Time and Complexity. <br><hr>
 Day 27 - . <br><hr>
 Day 28 - . <br><hr>
 Day 29 - . <br><hr>
-Day 30 - . <br><hr>
+Day 30 - Bitwise AND. <br><hr>
