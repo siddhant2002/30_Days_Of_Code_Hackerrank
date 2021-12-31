@@ -10,7 +10,7 @@ public class Solution {
     }
     void enqueueCharacter(char c)
     {
-        kk.add(c);
+        kk.offer(c);
     }
     char popCharacter()
     {
