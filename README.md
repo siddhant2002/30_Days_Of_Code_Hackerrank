@@ -21,8 +21,8 @@ Day 19 - Queues and Stacks. <br><hr>
 Day 20 - Interfaces. <br><hr>
 Day 21 - Sorting. <br><hr>
 Day 22 - Generics. <br><hr>
-Day 23 - . <br><hr>
-Day 24 - . <br><hr>
+Day 23 - Binary Search Trees. <br><hr>
+Day 24 - BST Level-Order Traversal. <br><hr>
 Day 25 - More Linked Lists. <br><hr>
 Day 26 - Running Time and Complexity. <br><hr>
 Day 27 - . <br><hr>
