@@ -25,7 +25,7 @@ Day 23 - Binary Search Trees. <br><hr>
 Day 24 - BST Level-Order Traversal. <br><hr>
 Day 25 - More Linked Lists. <br><hr>
 Day 26 - Running Time and Complexity. <br><hr>
-Day 27 - . <br><hr>
+Day 27 - Nested Logic. <br><hr>
 Day 28 - . <br><hr>
 Day 29 - . <br><hr>
 Day 30 - Bitwise AND. <br><hr>
